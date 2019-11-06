@@ -1,0 +1,8 @@
+print("Hello World!")
+print("Hello again")
+print("Tim is a cheat")
+print("I don't like doing this")
+print("yay, printing")
+print('i "said" do not touch this.')
+print('single quote check')
+# print("#")
